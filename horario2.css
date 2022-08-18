@@ -1,0 +1,16 @@
+
+table{
+	margin: 20px 0 40px;
+
+}
+
+thead{
+	background: rgb 85 85 85;
+	color: #fff;
+	font-weight: bold;
+}
+
+td,th{
+	border: 10px solid #000;
+	padding: 8px 15px;
+}
