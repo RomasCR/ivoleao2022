@@ -11,10 +11,7 @@ thead{
 }
 
 td,th{
-	border: 10px solid #000;
+	border: 10px solid rgb(0, 0, 0);
 	padding: 8px 15px;
 }
  
-thead{
-	color: #000;
-}
