@@ -15,6 +15,9 @@ h2{
 .h2_p {
     margin-left: 10px;
     margin-right: 25px;
+}
+
+.h2_p:nth-child(2){
     margin-bottom: 30px;
 }
 
