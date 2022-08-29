@@ -8,4 +8,13 @@ h1 {
 h2{
     font-size: 27px;
     font-weight: bold;
+    text-align:center;
+    color:red;
+}
+
+h3{
+    font-size: 27px;
+    font-weight: bold;
+    text-align:center;
+    color: blue;
 }
