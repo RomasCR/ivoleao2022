@@ -13,7 +13,8 @@ h2{
 }
 
 h2 p {
-    border: aqua;
+    border: 5px;
+    border-color: aqua;
 }
 
 h3{
