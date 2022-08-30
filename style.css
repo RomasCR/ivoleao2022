@@ -12,9 +12,16 @@ h2{
     color:red;
 }
 
-.h2_p {
+.h2_p1 {
+    margin-top: 15px;
     margin-left: 10px;
     margin-right: 25px;
+}
+
+.h2_p2{
+    margin-bottom: 30px;
+    margin-left:10px ;
+    margin-right:25px ;
 }
 
 
