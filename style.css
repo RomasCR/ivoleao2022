@@ -3,6 +3,8 @@ h1 {
     font-size: 250%;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align:center;
+    background-color: red;
+    border-radius: 25px;
 }
 
 h2{
@@ -10,6 +12,7 @@ h2{
     font-weight: bold;
     text-align:center;
     color:red;
+    margin-top:20px ;
 }
 
 .h2_p1 {
