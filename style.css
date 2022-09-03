@@ -47,6 +47,10 @@ h3 {
     margin-right: 25px;
 }
 
+.texto-crossaint{
+    display: inline-block;
+}
+
 .crossaint{
     background: rgb(50 ,50 ,50 );
 }
