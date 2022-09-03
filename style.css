@@ -49,15 +49,15 @@ h3 {
     margin-right: 25px;
 }
 
-.crossaint{
-    display: inline-block;
-    margin-left: 50px;
-}
-
 .texto-crossaint{
    display: inline-block;
    margin-left: 50px;
    text-align: center;
+}
+
+.crossaint{
+    display: inline-block;
+    margin-left: 50px;
 }
 
 .mapa{
