@@ -1,5 +1,7 @@
 body{
     background: yellow;
+    border: 10px;
+    border-color: red;
 }
 
 h1 {
