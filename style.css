@@ -6,6 +6,10 @@ h1 {
     border-radius: 15px;
 }
 
+.strong{
+    font-weight: bold;
+}
+
 h2{
     font-size: 27px;
     font-weight: bold;
