@@ -51,8 +51,8 @@ h3 {
 
 .texto-crossaint{
    display: inline-block;
-   margin-left: 50px;
    text-align: center;
+   font-size:25px;
 }
 
 .crossaint{
