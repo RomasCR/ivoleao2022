@@ -57,6 +57,10 @@ h3 {
    color: blue;
 }
 
+.strong2{
+    font-weight: bold;
+    color: #fff;
+}
 .crossaint{
     display: inline-block;
 }
