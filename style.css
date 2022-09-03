@@ -48,7 +48,8 @@ h3 {
 }
 
 .texto-crossaint{
-  display: inline;
+    display: inline;
+    margin-left: 50px;
 }
 
 .crossaint{
