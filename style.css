@@ -52,11 +52,9 @@ h3 {
 .texto-crossaint{
    display: inline-block;
    text-align: center;
-   font-size:35px;
+   font-size:25px;
    font-style: italic;
    color: blue;
-   margin: 1px;
-   padding-right:10px ;
 }
 
 .crossaint{
