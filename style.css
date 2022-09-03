@@ -47,11 +47,12 @@ h3 {
     margin-right: 25px;
 }
 
-.texto-crossaint{
-    margin-left: 50px;
-}
-
 .crossaint{
     background: rgb(50 ,50 ,50 );
+    display: inline-block;
+}
+
+.texto-crossaint{
+    margin-left: 50px;
     display: inline-block;
 }
