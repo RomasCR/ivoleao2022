@@ -63,6 +63,10 @@ h3 {
    position: absolute; left: 300px; top: 600px;
 }
 
+a {
+    text-decoration: none;
+}
+
 .strong2{
     font-weight: bold;
     color: rgb(255, 0, 0);
