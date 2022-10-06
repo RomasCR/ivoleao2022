@@ -10,6 +10,7 @@ body{
 /*NAVEGAÇÃO ENTRE PAGINAS*/
 .navegação {
     padding: 20px 0;
+    background:red ;
 }
 
 .caixa {
