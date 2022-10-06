@@ -1,6 +1,7 @@
 
 .navegação {
    padding: 20px 0;
+   background: ;
 }
 
 .caixa {
@@ -93,6 +94,9 @@ h1{
 
 footer{
 	text-align: center;
-	background: url(fundo.png);
+	background: rgb(54, 54, 54);;
 	padding: 40px 0;
+}
+.copyright{
+   color: #fff;
 }
