@@ -67,11 +67,11 @@ form label, form p {
 	border-radius: 10px;
 	transition: 1s all;
 	cursor: pointer;
-   margin-left: 25px;
+   margin-left: 50px;
 }
 
 .enviar:hover{
-	background: darkorange;
+	background:darkred;
 	transform: scale(1.2);
 }
 
