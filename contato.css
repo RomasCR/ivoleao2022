@@ -67,7 +67,7 @@ form label, form p {
 	border-radius: 10px;
 	transition: 1s all;
 	cursor: pointer;
-   margin-left: 50px;
+   margin-left: 100px;
 }
 
 .enviar:hover{
