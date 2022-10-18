@@ -77,14 +77,6 @@ h3 {
     margin-right: 25px;
 }
 
-.texto-crossaint{
-   display: inline-block;
-   text-align: center;
-   font-size:45px;
-   font-style: italic;
-   color: blue;
-   position: absolute; left: 300px; top: 700px;
-}
 
 a {
     text-decoration: none;
@@ -95,9 +87,7 @@ a {
     font-weight: bold;
     color: rgb(255, 0, 0);
 }
-.crossaint{
-    display: inline-block;
-}
+
 
 .mapa{
     margin:0 auto;
