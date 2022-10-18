@@ -100,7 +100,8 @@ a {
 }
 
 .mapa{
-    margin:0 44%;
+    margin:0 auto;
+    text-align: center;
 }
 
 footer{
