@@ -52,6 +52,10 @@ h1{
 	border-radius: 10px;
 }
 
+.topo{
+	margin-bottom: 25px;
+}
+
 .produtos li:hover{
 	border-color: #c78c19;
 	font-size: 40px;
