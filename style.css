@@ -32,7 +32,7 @@ nav a:hover {
 
 
 main{
-    background: linear-gradient(black, white);
+    background: linear-gradient(white, black 25%);
 }
 
 .strong{
