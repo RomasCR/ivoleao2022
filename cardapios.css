@@ -28,8 +28,8 @@ nav a:hover {
 }
 
 img{
-    position: absolute;
-    margin-left: auto;
+  text-align: center;
+  margin: auto;
 }
 
 footer{
