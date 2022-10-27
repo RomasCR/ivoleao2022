@@ -31,14 +31,14 @@ img{
   text-align: center;
   margin: auto;
   display: block;
+  background: url(fundodofundo.png);
 }
 
 footer{
 	text-align: center;
 	background: rgb(40, 40, 40);
 	padding: 40px 0;
-    background: url(fundodofundo.png);
-}
+    }
 .copyright{
     color: #fff;
 }
