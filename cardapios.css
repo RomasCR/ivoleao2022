@@ -27,11 +27,15 @@ nav a:hover {
     text-decoration: underline;
 }
 
+main{
+    background: url(fundodofundo.png);
+}
+
 img{
   text-align: center;
   margin: auto;
   display: block;
-  background: url(fundodofundo.png);
+
 }
 
 footer{
