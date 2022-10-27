@@ -61,18 +61,15 @@ h1{
 
 
 
-.produtos li:hover{
-	border-color: #c78c19;
+.ver_mais:hover{
+	color: #c78c19;
 	font-size: 40px;
 
 }
 
-.produtos li:hover h2{
-	font-size: 38px;
-}
 
-.produtos li:active{
-	border-color: rgb(0, 175, 0);
+.ver_mais:active{
+	color: rgb(0, 175, 0);
 }
 
 
@@ -91,14 +88,10 @@ h1{
 }
 
 
-.preço {
+.ver_mais {
 	font-size: 22px;
 	font-weight: bold;
 	margin-top: 10px;
-}
-
-.acompanhamento{
-   font-size: 20px;
 }
 
 footer{
