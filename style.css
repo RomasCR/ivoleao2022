@@ -58,6 +58,9 @@ h1{
     margin-bottom: 30px;
     margin-left:10px ;
     margin-right:25px ;
+    margin-left:10px ;
+    margin-right:25px ;
+    text-align: justify;
     text-align: justify;
 }
 
@@ -102,3 +105,5 @@ footer{
 .copyright{
     color: #fff;
 }
+
+font-family: 'Montserrat', sans-serif;
