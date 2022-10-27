@@ -35,11 +35,14 @@
 
  .reserva {
    font-size: 35px;
+   font-family: 'Montserrat', sans-serif;
  }
  form {
 	margin: 40px 0;
 }
-
+p{
+	font-family: 'Montserrat', sans-serif;
+}
 form label, form p {
 	display: block;
 	font-size: 20px;

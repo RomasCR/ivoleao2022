@@ -15,6 +15,10 @@ nav li {
    margin: 0 0 0 15px;
 }
 
+p{
+	font-family: 'Montserrat', sans-serif;
+}
+
 nav a {
    text-transform: uppercase;
    color: black;

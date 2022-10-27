@@ -52,6 +52,7 @@ h1{
     margin-left: 10px;
     margin-right: 25px;
     text-align: justify;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .h1_p2{
@@ -62,6 +63,7 @@ h1{
     margin-right:25px ;
     text-align: justify;
     text-align: justify;
+    font-family: 'Montserrat', sans-serif;
 }
 
 
@@ -106,4 +108,4 @@ footer{
     color: #fff;
 }
 
-font-family: 'Montserrat', sans-serif;
+
