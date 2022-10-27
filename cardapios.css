@@ -30,6 +30,7 @@ nav a:hover {
 img{
   text-align: center;
   margin: auto;
+  display: block;
 }
 
 footer{
