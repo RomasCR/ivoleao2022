@@ -95,12 +95,13 @@ h2 {
 
 
 .mapa{
-    margin:0 auto;
+    margin:25px auto;
     text-align: center;
 }
 
 .video{
     margin:0 auto;
+    margin-bottom: 25px;
     text-align: center;
  
 }
