@@ -33,6 +33,10 @@
     margin-left: 20px;
  }
 
+ main{
+	width: 940px; 
+	margin: 0 auto;
+ }
  .reserva {
    font-size: 35px;
    font-family: 'Montserrat', sans-serif;
