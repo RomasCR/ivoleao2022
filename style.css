@@ -83,12 +83,14 @@ h2 {
     margin-bottom: 15px;
 }
 
-.h2-p p{
-    text-align: justify;
-    margin-left: 10px;
-    margin-right: 25px;
-    display: inline-block;
+.h2-p_div{
     width: 60%;
+    margin:0 auto;    
+}
+
+.h2-p p{
+   text-align: justify;
+   display: inline-block;
 }
 
 .itens{
