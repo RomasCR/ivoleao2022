@@ -94,11 +94,11 @@ h2 {
 }
 
 .maionese{
-    float:left;
+    position: absolute;
 }
 
 .itens{
-    margin-top:5px;
+    margin-top:10px;
 }
 
 .diferentes{
