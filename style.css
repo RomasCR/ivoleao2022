@@ -89,7 +89,7 @@ h2 {
 }
 
 .h2-p p{
-   text-align: justify;
+   text-align:top;
    display: inline-block;
 }
 
