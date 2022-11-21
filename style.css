@@ -53,7 +53,7 @@ h1{
 
 .sobre{
     float:left;
-	margin: 0 20px 20px 0;
+	margin: 0 20px 20px 20px;
 }
 
 .h1_p1 {
@@ -87,20 +87,13 @@ h2 {
     text-align: justify;
     margin-left: 10px;
     margin-right: 25px;
+    display: inline-block;
 }
 
 .diferentes{
     font-size: 25px;
 
 }
-
-
-
-.strong2{
-    font-weight: bold;
-    color: rgb(255, 0, 0);
-}
-
 
 .mapa{
     margin:25px auto;
