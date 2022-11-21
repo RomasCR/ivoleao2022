@@ -88,6 +88,11 @@ h2 {
     margin-left: 10px;
     margin-right: 25px;
     display: inline-block;
+    width: 60%;
+}
+
+.itens{
+    margin-top:5px;
 }
 
 .diferentes{
