@@ -1,3 +1,8 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+
 /*NAVEGAÇÃO ENTRE PAGINAS*/
 .navegação {
     padding: 20px 0;
@@ -52,9 +57,6 @@ main{
     font-weight: bold;
 }
 
-p{
-    font-family: 'Montserrat', sans-serif;
-}
 
 h1{
     font-size: 27px;

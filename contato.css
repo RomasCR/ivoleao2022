@@ -4,10 +4,11 @@
  }
  
  .caixa {
-    position: relative;
-    width: 400px;
+    
+    width: 100%;
     margin: 0 auto;
- }
+    text-align: center;
+}
  
  nav li {
     display: inline;
